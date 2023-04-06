@@ -60,7 +60,7 @@ export default {
                </p>
             </div>
             <div class="item w-[50%] bg-black">
-               <video class="w-full" src="./img/video.mp4" controls />
+               <video class="w-full" src="" controls />
             </div>
          </div>
       </div>
